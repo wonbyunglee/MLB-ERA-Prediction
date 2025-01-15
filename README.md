@@ -41,7 +41,7 @@ More detailed results and benchmarks tables are in result1.xlsx
 
 ## Contribution
 
-In this study, the proposed model with TFT 
+In this study, the performance of the proposed model using tft was excellent. Even in comparison with existing projection systems, there were many cases of predicting closer to the actual ERA. These advancements in player performance prediction technologies can have a significant impact on the sports industry in the future and present a positive direction for both clubs and players.
 
 ## Contact
 
@@ -50,4 +50,4 @@ In this study, the proposed model with TFT
 - on M.Sc. degree in Applied Artificial Intelligence at SungKyunKwan University, Seoul, South Korea.
 - Research Interests : Sports data science, computer science, deep learning, LLM.
 - E-mail : co279727@gmail.com
-- Google scholar : https://scholar.google.com/citations?user=6QaU2dsAAAAJ&hl=ko
+- Google Scholar : https://scholar.google.com/citations?hl=ko&user=6QaU2dsAAAAJ
