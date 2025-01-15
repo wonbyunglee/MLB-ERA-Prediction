@@ -42,3 +42,12 @@ More detailed results and benchmarks tables are in result1.xlsx
 ## Contribution
 
 In this study, the proposed model with TFT 
+
+## Contact
+
+### Wonbyung Lee
+
+- on M.Sc. degree in Applied Artificial Intelligence at SungKyunKwan University, Seoul, South Korea.
+- Research Interests : Sports data science, computer science, deep learning, LLM.
+- E-mail : co279727@gmail.com
+- Google scholar : https://scholar.google.com/citations?user=6QaU2dsAAAAJ&hl=ko
