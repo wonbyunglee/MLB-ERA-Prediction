@@ -31,12 +31,6 @@ prediction_2024.ipynb is a prediction of 2024 ERA for the two best models select
 
 ## Results
 
-![Experimental results](result_figure1.png)
-
-- In dataset variation, Basic dataset showed better performance.
-- In period variation, targeting 2023 showed better performance.
-- In sequence length variation, sl=2 showed best performance.
-
 More detailed results and benchmarks tables are in result1.xlsx
 
 ## Contribution
