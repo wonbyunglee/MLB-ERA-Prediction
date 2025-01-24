@@ -22,8 +22,8 @@ The source code is divided into basic and statcast folders according to the data
 
 ### Requirements
 
-- Python 3.11.3
-- Tensorflow 2.12.0
+- Python 3.11.9
+- Tensorflow 2.13.0
 - Libraries are stated above the code.
 
 In addition, correlation_winrate.ipynb compares the correlation between the era ranking and the winning rate ranking of mlb clubs from 2000-2023.
