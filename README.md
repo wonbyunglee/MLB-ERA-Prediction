@@ -14,7 +14,7 @@ In this study, we used data from 2015-2023 of mlb pitchers. We divided the crite
 
 Main trained data (Basic, Statcast) : Baseball Savant (https://baseballsavant.mlb.com/statcast_search)
 
-Projection data : Fangraphs (ZiPS, ATC, Depth Charts, Steamer, and THE BAT) (https://www.fangraphs.com)
+Projection data (ZiPS, ATC, Depth Charts, Steamer, and THE BAT) : Fangraphs (https://www.fangraphs.com)
 
 ## Code
 
