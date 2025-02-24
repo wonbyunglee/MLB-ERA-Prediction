@@ -20,6 +20,17 @@ Projection data (ZiPS, ATC, Depth Charts, Steamer, and THE BAT) : Fangraphs (htt
 
 The source code is divided into basic and statcast folders according to the data learned first. The next step is divided into 2019 and 2023 folders according to the predicted year. Finally, the models tested for each sequence length can be checked. For a detailed description of each code, refer to the notes to the code.
 
+- This experiment was conducted using 13 neural network models.
+After conducting an initial round of testing, the best-performing models from each category were selected for the final experiments. Final 6 choosen models :
+
+    LSTM_A (LSTM)
+    
+    Biattention-GRU (GRU)
+
+    ED-BiLSTM (BiLSTM)
+
+    All TFT-based models
+
 ### Requirements
 
 - Python 3.11.9
@@ -57,7 +68,6 @@ This table compares the performance of various projection models with the propos
 🔍 Key Insights:
 
 - The proposed Full-TFT (Basic Dataset) model outperforms all other projections, achieving the lowest RMSE (0.5153), MAE (0.3720), and MAPE (0.0876).
-
 
 ## Contribution
 
