@@ -31,7 +31,33 @@ prediction_2024.ipynb is a prediction of 2024 ERA for the two best models select
 
 ## Results
 
-More detailed results and benchmarks tables are in result1.xlsx
+### Experimental Results (Basic Dataset)
+
+![Experimental Results](result_basic.png)
+
+### Experimental Results (Statcast Dataset)
+
+![Experimental Results](result_statcast.png)
+
+This table presents the performance comparison of various baseline models using the Basic Dataset and Statcast Dataset.
+The evaluation is conducted across different sequence lengths (SL=2, SL=3, SL=4) using three metrics: RMSE, MAE, and MAPE.
+
+🔍 Key Findings:
+
+- ED-BiLSTM and Full-TFT models generally perform the best across different settings.
+- Full-TFT achieves the best overall performance for SL=4, showing strong predictive accuracy.
+- In terms of MAPE, Full-TFT consistently achieves the lowest values, indicating higher relative accuracy.
+
+### Comparison Results (Proposed vs Projection systems)
+
+![Experimental Results](result_projection.png)
+
+This table compares the performance of various projection models with the proposed Full-TFT model across three evaluation metrics: RMSE, MAE, and MAPE.
+
+🔍 Key Insights:
+
+- The proposed Full-TFT (Basic Dataset) model outperforms all other projections, achieving the lowest RMSE (0.5153), MAE (0.3720), and MAPE (0.0876).
+
 
 ## Contribution
 
