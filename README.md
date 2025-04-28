@@ -80,7 +80,7 @@ In this study, the performance of the proposed model using tft was excellent. Ev
 ### Wonbyung Lee
 
 - M.S. course in Applied Artificial Intelligence at SungKyunKwan University, Seoul, South Korea.
-- Research Interests : Sports data science, computer science, deep learning, LLM.
+- Research Interests : Sports data science, time-series forecasting, deep learning, LLM.
 - E-mail : co279727@gmail.com
 - Google Scholar : https://scholar.google.com/citations?hl=ko&user=6QaU2dsAAAAJ
 - Github : https://github.com/wonbyunglee
